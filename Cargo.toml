@@ -1,0 +1,6 @@
+[package]
+name = "polynomial-i64"
+version = "0.1.0"
+authors = ["statiolake <statiolake@gmail.com>"]
+
+[dependencies]
